@@ -1,17 +1,17 @@
 👋 Hello, my name is Shammar and I am a full stack developer. 
 I have experience with 
-  HTML 
-  CSS 
-  Javascript 
-  Typescript 
-  PHP
+  - HTML 
+  - CSS 
+  - Javascript 
+  - Typescript 
+  - PHP
   
 I have also worked with frameworks such as, 
-  Ionic 
-  React 
-  React Native 
+  - Ionic 
+  - React 
+  - React Native 
 
-Currently I am interested in and learning RPA technologies.
+Currently I am interested in, and learning RPA technologies.
 
 View my Code Pen Here 
 
