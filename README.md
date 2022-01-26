@@ -1,4 +1,4 @@
-👋 Hello, I’m Shammar Langaigne my name is Shammar and I am a full stack developer. 
+👋 Hello, my name is Shammar and I am a full stack developer. 
 I have experience with 
   HTML 
   CSS 
