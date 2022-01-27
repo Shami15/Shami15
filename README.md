@@ -8,8 +8,8 @@ I have experience with:
   
 I have also worked with frameworks such as, 
   - 📱Ionic 
-  - React 
-  - React Native 
+  - 🌌React 
+  - 🌌React Native 
 
 Currently I am interested in, and learning RPA technologies.
 
