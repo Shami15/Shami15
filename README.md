@@ -1,5 +1,5 @@
 👋 Hello, my name is Shammar and I am a full stack developer. 
-I have experience with 
+I have experience with:  
   - 📑HTML 
   - CSS 
   - Javascript 
