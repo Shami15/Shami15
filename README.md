@@ -1,13 +1,13 @@
 👋 Hello, my name is Shammar and I am a full stack developer. 
 I have experience with:  
   - 📑HTML 
-  - CSS 
-  - Javascript 
-  - Typescript 
-  - PHP
+  - 📝CSS 
+  - 🧮Javascript 
+  - 📊Typescript 
+  - 📜PHP
   
 I have also worked with frameworks such as, 
-  - Ionic 
+  - 📱Ionic 
   - React 
   - React Native 
 
