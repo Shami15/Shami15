@@ -1,3 +1,5 @@
+<img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="1080" height="460" />
+
 👋 Hello, my name is Shammar and I am a full stack developer. 
 I have experience with:  
   - 📑HTML 
